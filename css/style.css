@@ -1,0 +1,31 @@
+nav.navbar {
+    background-color: #f11a19 !important;
+}
+
+nav.navbar a {
+    /*color: #ffffff !important;*/
+}
+
+body {
+    background-color: #f7d337 !important;
+}
+
+#f11a19
+
+.liste-de-cartes li {
+    list-style: none;
+}
+
+.liste-de-cartes li a {
+    text-decoration: none;
+} 
+
+.liste-de-cartes li a:hover .card-title {
+    text-decoration: underline;
+    font-weight: 600;
+} 
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+}
